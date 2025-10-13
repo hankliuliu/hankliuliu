@@ -1,4 +1,4 @@
-## 哈囉~ <img width="360" height="30" alt="image" src="https://github.com/user-attachments/assets/96becc32-6bf1-4bf2-aaa7-00293df85971" />
+## Welcome to my GitHub Profile ~ 
 
 我是劉彥誠，就讀於國立成功大學資訊工程學系。
 
