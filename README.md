@@ -1,16 +1,27 @@
-## Hi there 👋
+## 哈囉~
 
-<!--
-**hankliuliu/hankliuliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是劉彥誠，就讀於國立成功大學資訊工程學系。
 
-Here are some ideas to get you started:
+研究/專案經歷  
+。  專題:  探討 PIM 技術如何影響線性回歸的效能 - ­入圍決賽  
+。  110-2  Java 音樂節奏遊戲­  
+。  111-1  點矩陣 打地鼠遊戲  
+。  111-1  C# 桌面寵物: 慢跑幫手  
+。  111-2  C# 營隊解謎遊戲  
+。  112-1  Microprocessor+簡易實體 投籃機遊戲  
+。  112-2  簡易版 C++ Compiler  
+。  112-2  機器學習 中藥成分分類  
+。  113-1  機器學習 工業紋理影像異常偵測  
+。  113-1  基於 RAG 架構的成大教務處問答系統  
+。  113-2  Python 臺股投資模擬遊戲  
+。  113-2  資料探勘 Real-Time Bidding - 最大化廣告點擊數
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+活動經歷  
+。  111-2  通識課堂助手 - 主持專案進度報告  
+。  111-2  3Q 青少年領袖成長營 - 課程組  
+。  112-1  領袖社幹部 - 協助迎新活動  
+。  112-2  學生組織幹部領袖培訓營
+
+國際經歷  
+。  2021   英國 University College London 暑期計畫  
+。  114-1  德國 TU Darmstadt Computer Science 交換學生
