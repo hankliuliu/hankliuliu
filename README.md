@@ -23,5 +23,5 @@
 。  112-2  學生組織幹部領袖培訓營
 
 ### 國際經歷  
-。  2021   英國 University College London 暑期計畫  
+。  107-2  英國 University College London 暑期計畫  
 。  114-1  德國 TU Darmstadt Computer Science 交換學生
